@@ -1,4 +1,4 @@
-# 💸 Saúde Financeira App
+# 💸 Saúde Financeira App (Sindivaldo)
 
 Aplicativo conversacional que ajuda pessoas a cuidarem da sua saúde financeira de forma prática e acessível. Substitui planilhas e formulários por uma experiência de chat com um agente financeiro inteligente.
 
